@@ -1,4 +1,4 @@
-import 'package:MtgSearcher/Modules/Home/Domain/entities/magic_card.dart';
+import 'package:mtgsearcher/Modules/Home/Domain/entities/magic_card.dart';
 
 class MagicCardModel extends MagicCard {
   MagicCardModel(

@@ -1,7 +1,7 @@
-import 'package:MtgSearcher/Modules/Home/Core/endpoints/magic_card_endpoints.dart';
-import 'package:MtgSearcher/Modules/Home/Core/errors/exceptions.dart';
-import 'package:MtgSearcher/Modules/Home/Data/models/magic_card_model.dart';
-import 'package:MtgSearcher/Modules/Home/Domain/entities/magic_card.dart';
+import 'package:mtgsearcher/Modules/Home/Core/endpoints/magic_card_endpoints.dart';
+import 'package:mtgsearcher/Modules/Home/Core/errors/exceptions.dart';
+import 'package:mtgsearcher/Modules/Home/Data/models/magic_card_model.dart';
+import 'package:mtgsearcher/Modules/Home/Domain/entities/magic_card.dart';
 
 import 'package:dio/dio.dart';
 

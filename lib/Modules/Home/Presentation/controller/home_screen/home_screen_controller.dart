@@ -1,5 +1,5 @@
-import 'package:MtgSearcher/Modules/Home/Domain/entities/magic_card.dart';
-import 'package:MtgSearcher/Modules/Home/Domain/usecases/get_magic_card_usecase.dart';
+import 'package:mtgsearcher/Modules/Home/Domain/entities/magic_card.dart';
+import 'package:mtgsearcher/Modules/Home/Domain/usecases/get_magic_card_usecase.dart';
 import 'package:mobx/mobx.dart';
 
 part 'home_screen_controller.g.dart';
